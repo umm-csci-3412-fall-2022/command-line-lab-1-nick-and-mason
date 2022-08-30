@@ -18,7 +18,7 @@ end up needing to, e.g., `ssh` into a remote, cloud-based system where you won't
 have access to the nice GUI tools. This lab provides an introduction to a
 variety of important shell tools and how programming/scripting is done
 using shell commands.
-
+This is Nik
 :warning: Remember to complete the [Command line introduction pre-lab](https://github.com/UMM-CSci-Systems/Command-line-introduction-pre-lab) reading and preparation before this lab begins.
 
 - [Overview](#overview)
