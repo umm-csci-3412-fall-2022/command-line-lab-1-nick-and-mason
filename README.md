@@ -8,7 +8,7 @@
 
 ## Overview
 
-**First and Foremost:**  Please read the **entire** lab before starting.  It's quite possible that some questions that arise while reading the lab are answered
+**First and Foremost:**  Please *read* the **entire** lab before starting.  It's quite possible that some questions that arise while reading the lab are answered
 later in the lab. That said... let's get to to it!
 
 This provides a basic introduction to shell programming. If you
